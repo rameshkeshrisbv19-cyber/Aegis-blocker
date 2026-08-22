@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aegis Blocker</string>
+    <string name="accessibility_label">Aegis App Blocker</string>
+    <string name="accessibility_description">Detects when a blocked app opens so Aegis can protect your focus by covering it with a block screen. No data leaves your device.</string>
+</resources>
